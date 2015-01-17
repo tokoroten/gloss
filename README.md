@@ -2,7 +2,7 @@
 * original Gloss:
   * http://www.tuxradar.com/gloss/
 
-Original Gloss is OpenGL game libraly of Python, using PyGame.
+Original Gloss is OpenGL game library of Python, using PyGame.
 But it lacks some function to make my Game.
 So, I fixed Gloss.
 
